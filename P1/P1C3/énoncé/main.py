@@ -1,1 +1,1 @@
-## Écrivez votre code ici !
+print("J'apprends Python !") ## Écrivez votre code ici !
